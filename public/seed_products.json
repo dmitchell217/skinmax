@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1,
+    "brand": "CeraVe",
+    "name": "Hydrating Facial Cleanser",
+    "step": "cleanser",
+    "actives": ["ceramides", "hyaluronic acid"],
+    "skin_types": ["dry", "sensitive", "combination"],
+    "price_cents": 1500,
+    "url": "https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser"
+  },
+  {
+    "id": 2,
+    "brand": "CeraVe",
+    "name": "Foaming Facial Cleanser",
+    "step": "cleanser",
+    "actives": ["ceramides", "niacinamide"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1500,
+    "url": "https://www.cerave.com/skincare/cleansers/foaming-facial-cleanser"
+  },
+  {
+    "id": 3,
+    "brand": "La Roche-Posay",
+    "name": "Toleriane Hydrating Gentle Cleanser",
+    "step": "cleanser",
+    "actives": ["ceramides", "niacinamide"],
+    "skin_types": ["sensitive", "dry"],
+    "price_cents": 1800,
+    "url": "https://www.laroche-posay.us/anthelios/toleriane-hydrating-gentle-facial-cleanser-3337875684018.html"
+  },
+  {
+    "id": 4,
+    "brand": "COSRX",
+    "name": "Low pH Good Morning Gel Cleanser",
+    "step": "cleanser",
+    "actives": ["BHA", "tea tree"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1200,
+    "url": "https://www.cosrx.com/low-ph-good-morning-gel-cleanser"
+  },
+  {
+    "id": 5,
+    "brand": "The Ordinary",
+    "name": "Squalane Cleanser",
+    "step": "cleanser",
+    "actives": ["squalane"],
+    "skin_types": ["dry", "sensitive", "combination"],
+    "price_cents": 900,
+    "url": "https://theordinary.com/en-us/squalane-cleanser-100466.html"
+  },
+  {
+    "id": 6,
+    "brand": "Vanicream",
+    "name": "Gentle Facial Cleanser",
+    "step": "cleanser",
+    "actives": [],
+    "skin_types": ["sensitive", "dry"],
+    "price_cents": 1100,
+    "url": "https://www.vanicream.com/product/gentle-facial-cleanser"
+  },
+  {
+    "id": 7,
+    "brand": "The Ordinary",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "step": "serum",
+    "actives": ["niacinamide", "zinc"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 700,
+    "url": "https://theordinary.com/en-us/niacinamide-10pct-zinc-1pct-100378.html"
+  },
+  {
+    "id": 8,
+    "brand": "The Ordinary",
+    "name": "Vitamin C Suspension 23% + HA Spheres 2%",
+    "step": "serum",
+    "actives": ["vitamin C", "ascorbic acid", "hyaluronic acid"],
+    "skin_types": ["combination", "dry", "oily"],
+    "price_cents": 800,
+    "url": "https://theordinary.com/en-us/vitamin-c-suspension-23pct-ha-spheres-2pct-100400.html"
+  },
+  {
+    "id": 9,
+    "brand": "The Ordinary",
+    "name": "Hyaluronic Acid 2% + B5",
+    "step": "serum",
+    "actives": ["hyaluronic acid"],
+    "skin_types": ["dry", "sensitive", "combination"],
+    "price_cents": 800,
+    "url": "https://theordinary.com/en-us/hyaluronic-acid-2pct-b5-100400.html"
+  },
+  {
+    "id": 10,
+    "brand": "Paula's Choice",
+    "name": "2% BHA Liquid Exfoliant",
+    "step": "serum",
+    "actives": ["BHA", "salicylic acid"],
+    "strength": "2%",
+    "skin_types": ["oily", "combination"],
+    "price_cents": 3200,
+    "url": "https://www.paulaschoice.com/skin-perfecting-2-percent-bha-liquid-exfoliant/201.html"
+  },
+  {
+    "id": 11,
+    "brand": "The Ordinary",
+    "name": "Glycolic Acid 7% Toning Solution",
+    "step": "serum",
+    "actives": ["AHA", "glycolic acid"],
+    "strength": "7%",
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1200,
+    "url": "https://theordinary.com/en-us/glycolic-acid-7pct-toning-solution-100400.html"
+  },
+  {
+    "id": 12,
+    "brand": "The Ordinary",
+    "name": "Azelaic Acid Suspension 10%",
+    "step": "serum",
+    "actives": ["azelaic acid"],
+    "strength": "10%",
+    "skin_types": ["sensitive", "combination"],
+    "price_cents": 1000,
+    "url": "https://theordinary.com/en-us/azelaic-acid-suspension-10pct-100400.html"
+  },
+  {
+    "id": 13,
+    "brand": "CeraVe",
+    "name": "AM Facial Moisturizing Lotion SPF 30",
+    "step": "moisturizer",
+    "actives": ["ceramides", "hyaluronic acid", "niacinamide"],
+    "skin_types": ["dry", "combination", "sensitive"],
+    "price_cents": 1800,
+    "url": "https://www.cerave.com/skincare/moisturizers/am-facial-moisturizing-lotion-with-sunscreen-spf-30"
+  },
+  {
+    "id": 14,
+    "brand": "CeraVe",
+    "name": "PM Facial Moisturizing Lotion",
+    "step": "moisturizer",
+    "actives": ["ceramides", "hyaluronic acid", "niacinamide"],
+    "skin_types": ["dry", "combination", "sensitive"],
+    "price_cents": 1600,
+    "url": "https://www.cerave.com/skincare/moisturizers/pm-facial-moisturizing-lotion"
+  },
+  {
+    "id": 15,
+    "brand": "CeraVe",
+    "name": "Daily Moisturizing Lotion",
+    "step": "moisturizer",
+    "actives": ["ceramides", "hyaluronic acid"],
+    "skin_types": ["dry", "sensitive", "combination"],
+    "price_cents": 1400,
+    "url": "https://www.cerave.com/skincare/moisturizers/daily-moisturizing-lotion"
+  },
+  {
+    "id": 16,
+    "brand": "La Roche-Posay",
+    "name": "Toleriane Double Repair Face Moisturizer",
+    "step": "moisturizer",
+    "actives": ["ceramides", "niacinamide"],
+    "skin_types": ["sensitive", "dry"],
+    "price_cents": 2200,
+    "url": "https://www.laroche-posay.us/anthelios/toleriane-double-repair-face-moisturizer-3337875684019.html"
+  },
+  {
+    "id": 17,
+    "brand": "Vanicream",
+    "name": "Moisturizing Cream",
+    "step": "moisturizer",
+    "actives": [],
+    "skin_types": ["sensitive", "dry"],
+    "price_cents": 1300,
+    "url": "https://www.vanicream.com/product/moisturizing-cream"
+  },
+  {
+    "id": 18,
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Water Gel",
+    "step": "moisturizer",
+    "actives": ["hyaluronic acid"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 2000,
+    "url": "https://www.neutrogena.com/skincare/moisturizers/hydro-boost-water-gel/6811002.html"
+  },
+  {
+    "id": 19,
+    "brand": "EltaMD",
+    "name": "UV Clear Broad-Spectrum SPF 46",
+    "step": "sunscreen",
+    "actives": ["zinc oxide", "octinoxate", "niacinamide"],
+    "skin_types": ["sensitive", "combination", "oily"],
+    "price_cents": 3900,
+    "url": "https://eltamd.com/product/uv-clear-broad-spectrum-spf-46-face/"
+  },
+  {
+    "id": 20,
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Melt-in Milk Sunscreen SPF 60",
+    "step": "sunscreen",
+    "actives": ["avobenzone", "octinoxate", "octocrylene"],
+    "skin_types": ["sensitive", "dry", "combination"],
+    "price_cents": 2200,
+    "url": "https://www.laroche-posay.us/anthelios/anthelios-melt-in-milk-sunscreen-spf-60-3337875684017.html"
+  },
+  {
+    "id": 21,
+    "brand": "CeraVe",
+    "name": "Ultra-Light Moisturizing Lotion SPF 30",
+    "step": "sunscreen",
+    "actives": ["ceramides", "hyaluronic acid", "zinc oxide"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1900,
+    "url": "https://www.cerave.com/skincare/sunscreen/ultra-light-moisturizing-lotion-spf-30"
+  },
+  {
+    "id": 22,
+    "brand": "Supergoop!",
+    "name": "Unseen Sunscreen SPF 40",
+    "step": "sunscreen",
+    "actives": ["red algae"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 3800,
+    "url": "https://supergoop.com/products/unseen-sunscreen-spf-40"
+  },
+  {
+    "id": 23,
+    "brand": "Biore",
+    "name": "UV Aqua Rich Watery Essence SPF 50+",
+    "step": "sunscreen",
+    "actives": [],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1200,
+    "url": "https://www.biore.com/en-us/products/uv-aqua-rich-watery-essence-spf50-pa"
+  },
+  {
+    "id": 24,
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + HA",
+    "step": "moisturizer",
+    "actives": ["hyaluronic acid"],
+    "skin_types": ["dry", "combination"],
+    "price_cents": 900,
+    "url": "https://theordinary.com/en-us/natural-moisturizing-factors-ha-100400.html"
+  },
+  {
+    "id": 25,
+    "brand": "COSRX",
+    "name": "Advanced Snail 96 Mucin Power Essence",
+    "step": "serum",
+    "actives": ["snail mucin"],
+    "skin_types": ["dry", "sensitive", "combination"],
+    "price_cents": 2500,
+    "url": "https://www.cosrx.com/advanced-snail-96-mucin-power-essence"
+  },
+  {
+    "id": 26,
+    "brand": "COSRX",
+    "name": "Snail 92 All in One Cream",
+    "step": "moisturizer",
+    "actives": ["snail mucin"],
+    "skin_types": ["dry", "sensitive"],
+    "price_cents": 2200,
+    "url": "https://www.cosrx.com/snail-92-all-in-one-cream"
+  },
+  {
+    "id": 27,
+    "brand": "Paula's Choice",
+    "name": "10% Azelaic Acid Booster",
+    "step": "serum",
+    "actives": ["azelaic acid"],
+    "strength": "10%",
+    "skin_types": ["sensitive", "combination"],
+    "price_cents": 3600,
+    "url": "https://www.paulaschoice.com/10-percent-azelaic-acid-booster/787.html"
+  },
+  {
+    "id": 28,
+    "brand": "The Ordinary",
+    "name": "Retinol 0.5% in Squalane",
+    "step": "serum",
+    "actives": ["retinol"],
+    "strength": "0.5%",
+    "skin_types": ["combination", "dry"],
+    "price_cents": 1000,
+    "url": "https://theordinary.com/en-us/retinol-0-5pct-in-squalane-100400.html"
+  },
+  {
+    "id": 29,
+    "brand": "The Ordinary",
+    "name": "Retinol 1% in Squalane",
+    "step": "serum",
+    "actives": ["retinol"],
+    "strength": "1%",
+    "skin_types": ["combination", "dry"],
+    "price_cents": 1200,
+    "url": "https://theordinary.com/en-us/retinol-1pct-in-squalane-100400.html"
+  },
+  {
+    "id": 30,
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Duo Dual Action Acne Treatment",
+    "step": "serum",
+    "actives": ["benzoyl peroxide", "LHA"],
+    "strength": "5.5%",
+    "skin_types": ["oily", "combination"],
+    "price_cents": 2100,
+    "url": "https://www.laroche-posay.us/anthelios/effaclar-duo-dual-action-acne-treatment-3337875684016.html"
+  },
+  {
+    "id": 31,
+    "brand": "The Ordinary",
+    "name": "AHA 30% + BHA 2% Peeling Solution",
+    "step": "serum",
+    "actives": ["AHA", "BHA", "glycolic acid", "salicylic acid"],
+    "strength": "30% AHA, 2% BHA",
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1300,
+    "url": "https://theordinary.com/en-us/aha-30pct-bha-2pct-peeling-solution-100400.html"
+  },
+  {
+    "id": 32,
+    "brand": "COSRX",
+    "name": "AHA/BHA Clarifying Treatment Toner",
+    "step": "serum",
+    "actives": ["AHA", "BHA"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1800,
+    "url": "https://www.cosrx.com/aha-bha-clarifying-treatment-toner"
+  },
+  {
+    "id": 33,
+    "brand": "Vanicream",
+    "name": "Daily Facial Moisturizer",
+    "step": "moisturizer",
+    "actives": ["ceramides", "hyaluronic acid"],
+    "skin_types": ["sensitive", "dry"],
+    "price_cents": 1400,
+    "url": "https://www.vanicream.com/product/daily-facial-moisturizer"
+  },
+  {
+    "id": 34,
+    "brand": "Neutrogena",
+    "name": "Ultra Sheer Dry-Touch Sunscreen SPF 55",
+    "step": "sunscreen",
+    "actives": ["avobenzone", "octinoxate"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 1200,
+    "url": "https://www.neutrogena.com/sunscreen/ultra-sheer-dry-touch-sunscreen-spf-55/6817382.html"
+  },
+  {
+    "id": 35,
+    "brand": "CeraVe",
+    "name": "Resurfacing Retinol Serum",
+    "step": "serum",
+    "actives": ["retinol", "ceramides", "niacinamide"],
+    "strength": "0.3%",
+    "skin_types": ["combination", "dry"],
+    "price_cents": 2000,
+    "url": "https://www.cerave.com/skincare/serums/resurfacing-retinol-serum"
+  },
+  {
+    "id": 36,
+    "brand": "The Ordinary",
+    "name": "Buffet",
+    "step": "serum",
+    "actives": ["peptides", "hyaluronic acid"],
+    "skin_types": ["dry", "combination"],
+    "price_cents": 1700,
+    "url": "https://theordinary.com/en-us/buffet-100400.html"
+  },
+  {
+    "id": 37,
+    "brand": "COSRX",
+    "name": "Oil Free Ultra Moisturizing Lotion",
+    "step": "moisturizer",
+    "actives": ["birch sap"],
+    "skin_types": ["oily", "combination"],
+    "price_cents": 2200,
+    "url": "https://www.cosrx.com/oil-free-ultra-moisturizing-lotion"
+  },
+  {
+    "id": 38,
+    "brand": "La Roche-Posay",
+    "name": "Toleriane Ultra Night Moisturizer",
+    "step": "moisturizer",
+    "actives": ["ceramides", "niacinamide"],
+    "skin_types": ["sensitive", "dry"],
+    "price_cents": 2800,
+    "url": "https://www.laroche-posay.us/anthelios/toleriane-ultra-night-moisturizer-3337875684020.html"
+  },
+  {
+    "id": 39,
+    "brand": "Paula's Choice",
+    "name": "RESIST Intensive Repair Cream",
+    "step": "moisturizer",
+    "actives": ["retinol", "peptides", "ceramides"],
+    "skin_types": ["dry", "combination"],
+    "price_cents": 4200,
+    "url": "https://www.paulaschoice.com/resist-intensive-repair-cream/200.html"
+  },
+  {
+    "id": 40,
+    "brand": "Supergoop!",
+    "name": "Play Everyday Lotion SPF 50",
+    "step": "sunscreen",
+    "actives": ["avobenzone", "octinoxate"],
+    "skin_types": ["dry", "combination"],
+    "price_cents": 2400,
+    "url": "https://supergoop.com/products/play-everyday-lotion-spf-50"
+  }
+]
+

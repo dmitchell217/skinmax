@@ -1,0 +1,219 @@
+{
+  "oval": {
+    "haircuts": [
+      {
+        "title": "Textured crop",
+        "rationale": "maintains balanced proportions, adds modern edge",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+          "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"
+        ]
+      },
+      {
+        "title": "Medium quiff",
+        "rationale": "adds height and structure, works with balanced features",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400"
+        ]
+      },
+      {
+        "title": "Side part",
+        "rationale": "classic and versatile, complements oval proportions",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "beards": [
+      {
+        "title": "Short stubble",
+        "rationale": "maintains clean lines, doesn't overwhelm balanced features",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400"
+        ]
+      },
+      {
+        "title": "Light beard",
+        "rationale": "adds definition without changing face shape",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "glasses": [
+      {
+        "title": "Rectangular frames",
+        "rationale": "maintains balanced proportions, classic look",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/rectangular"
+      },
+      {
+        "title": "Aviator",
+        "rationale": "versatile style that works with balanced features",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/aviator"
+      }
+    ]
+  },
+  "round": {
+    "haircuts": [
+      {
+        "title": "Textured crop",
+        "rationale": "adds height and angles, elongates face",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+          "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"
+        ]
+      },
+      {
+        "title": "High fade with volume",
+        "rationale": "creates vertical lines, balances roundness",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400"
+        ]
+      },
+      {
+        "title": "Pompadour",
+        "rationale": "adds height and structure, elongates face shape",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "beards": [
+      {
+        "title": "Square beard",
+        "rationale": "adds angular definition, balances roundness",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400"
+        ]
+      },
+      {
+        "title": "Goatee",
+        "rationale": "elongates chin, adds definition",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "glasses": [
+      {
+        "title": "Rectangular frames",
+        "rationale": "adds angles and structure, balances roundness",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/rectangular"
+      },
+      {
+        "title": "Square frames",
+        "rationale": "creates contrast with round face, adds definition",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/square"
+      }
+    ]
+  },
+  "heart": {
+    "haircuts": [
+      {
+        "title": "Textured crop",
+        "rationale": "balances wider forehead, adds structure",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+          "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"
+        ]
+      },
+      {
+        "title": "Side-swept fringe",
+        "rationale": "softens forehead width, balances narrow chin",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400"
+        ]
+      },
+      {
+        "title": "Medium length with layers",
+        "rationale": "adds width at jawline, balances proportions",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "beards": [
+      {
+        "title": "Full beard",
+        "rationale": "adds width at jawline, balances narrow chin",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400"
+        ]
+      },
+      {
+        "title": "Extended goatee",
+        "rationale": "adds width to chin area, balances proportions",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "glasses": [
+      {
+        "title": "Round frames",
+        "rationale": "softens angular features, balances wider forehead",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/round"
+      },
+      {
+        "title": "Cat-eye frames",
+        "rationale": "adds width at bottom, balances heart shape",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/cat-eye"
+      }
+    ]
+  },
+  "square": {
+    "haircuts": [
+      {
+        "title": "Textured crop",
+        "rationale": "softens angular jaw and temples, adds movement",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+          "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"
+        ]
+      },
+      {
+        "title": "Medium quiff",
+        "rationale": "adds verticality, softens strong angles",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400"
+        ]
+      },
+      {
+        "title": "Longer textured",
+        "rationale": "softens jawline, adds movement and flow",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "beards": [
+      {
+        "title": "Short boxed",
+        "rationale": "keeps jaw clean, avoids bulk, maintains definition",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400"
+        ]
+      },
+      {
+        "title": "Rounded beard",
+        "rationale": "softens angular jawline, adds curves",
+        "image_urls": [
+          "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400"
+        ]
+      }
+    ],
+    "glasses": [
+      {
+        "title": "Round acetate",
+        "rationale": "softens corners, balances angular features",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/round"
+      },
+      {
+        "title": "Oval frames",
+        "rationale": "adds curves, softens strong jawline",
+        "affiliate_url": "https://www.warbyparker.com/eyeglasses/men/oval"
+      }
+    ]
+  }
+}
+

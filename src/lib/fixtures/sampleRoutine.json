@@ -1,0 +1,146 @@
+{
+  "version": "1.0.0",
+  "profile": {
+    "age_range": "25-35",
+    "skin_type": "combination",
+    "fitzpatrick": "III",
+    "goal": "acne",
+    "budget_per_month_cents": 5000,
+    "fragrance_ok": false,
+    "max_steps_am": 4,
+    "max_steps_pm": 4,
+    "actives_in_use": ["niacinamide"]
+  },
+  "morning": [
+    {
+      "step_id": "am_cleanser",
+      "title": "Gentle Cleanser",
+      "actives": ["ceramides"],
+      "why": "Removes overnight oil and prepares skin for morning routine without stripping.",
+      "options": [
+        {
+          "product_id": 1,
+          "brand": "CeraVe",
+          "name": "Hydrating Facial Cleanser",
+          "url": "https://example.com/cerave-cleanser",
+          "price_cents": 1500
+        }
+      ]
+    },
+    {
+      "step_id": "am_serum",
+      "title": "Vitamin C Serum",
+      "actives": ["vitamin C", "ascorbic acid"],
+      "why": "Brightens and protects against environmental damage. Use before sunscreen.",
+      "options": [
+        {
+          "product_id": 2,
+          "brand": "The Ordinary",
+          "name": "Vitamin C Suspension 23% + HA Spheres 2%",
+          "url": "https://example.com/to-vitc",
+          "price_cents": 800
+        }
+      ]
+    },
+    {
+      "step_id": "am_moisturizer",
+      "title": "Lightweight Moisturizer",
+      "actives": ["hyaluronic acid", "ceramides"],
+      "why": "Hydrates without feeling heavy. Works well under makeup.",
+      "options": [
+        {
+          "product_id": 3,
+          "brand": "CeraVe",
+          "name": "AM Facial Moisturizing Lotion SPF 30",
+          "url": "https://example.com/cerave-am",
+          "price_cents": 1800
+        }
+      ]
+    },
+    {
+      "step_id": "am_sunscreen",
+      "title": "Sunscreen",
+      "actives": ["zinc oxide"],
+      "why": "Essential daily protection. Prevents UV damage and premature aging.",
+      "options": [
+        {
+          "product_id": 4,
+          "brand": "EltaMD",
+          "name": "UV Clear Broad-Spectrum SPF 46",
+          "url": "https://example.com/eltamd-spf",
+          "price_cents": 3900
+        }
+      ]
+    }
+  ],
+  "evening": [
+    {
+      "step_id": "pm_cleanser",
+      "title": "Double Cleanse - Oil First",
+      "actives": ["squalane"],
+      "why": "Removes makeup and sunscreen. Oil cleanser breaks down SPF and makeup.",
+      "options": [
+        {
+          "product_id": 5,
+          "brand": "The Ordinary",
+          "name": "Squalane Cleanser",
+          "url": "https://example.com/to-squalane",
+          "price_cents": 900
+        }
+      ]
+    },
+    {
+      "step_id": "pm_cleanser2",
+      "title": "Water-Based Cleanser",
+      "actives": ["ceramides"],
+      "why": "Second cleanse removes any remaining residue and prepares for actives.",
+      "options": [
+        {
+          "product_id": 1,
+          "brand": "CeraVe",
+          "name": "Hydrating Facial Cleanser",
+          "url": "https://example.com/cerave-cleanser",
+          "price_cents": 1500
+        }
+      ]
+    },
+    {
+      "step_id": "pm_active",
+      "title": "Treatment Serum",
+      "actives": ["niacinamide", "zinc"],
+      "why": "Controls oil production and reduces inflammation. Works well with your existing routine.",
+      "options": [
+        {
+          "product_id": 6,
+          "brand": "The Ordinary",
+          "name": "Niacinamide 10% + Zinc 1%",
+          "url": "https://example.com/to-niacinamide",
+          "price_cents": 700
+        }
+      ]
+    },
+    {
+      "step_id": "pm_moisturizer",
+      "title": "Night Moisturizer",
+      "actives": ["ceramides", "hyaluronic acid"],
+      "why": "Repairs barrier overnight. Provides hydration while you sleep.",
+      "options": [
+        {
+          "product_id": 7,
+          "brand": "CeraVe",
+          "name": "PM Facial Moisturizing Lotion",
+          "url": "https://example.com/cerave-pm",
+          "price_cents": 1600
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    "Avoid using vitamin C and niacinamide at the same time in the same routine step"
+  ],
+  "cautions": [
+    "Start with every other day for the niacinamide serum if you experience any irritation",
+    "Always patch test new products before full face application"
+  ]
+}
+
