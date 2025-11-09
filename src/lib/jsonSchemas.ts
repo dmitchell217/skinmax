@@ -14,13 +14,11 @@ export const RoutineJSONSchema = {
       properties: {
         age_range: { type: 'string' },
         skin_type: { type: 'string', enum: ['oily', 'combination', 'dry', 'sensitive'] },
-        fitzpatrick: { type: 'string' },
         goal: { type: 'string' },
         budget_per_month_cents: { type: 'integer' },
         fragrance_ok: { type: 'boolean' },
         max_steps_am: { type: 'integer', minimum: 2, maximum: 6 },
         max_steps_pm: { type: 'integer', minimum: 2, maximum: 6 },
-        actives_in_use: { type: 'array', items: { type: 'string' } },
       },
       required: ['age_range', 'skin_type', 'goal', 'budget_per_month_cents', 'fragrance_ok', 'max_steps_am', 'max_steps_pm'],
     },
